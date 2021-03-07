@@ -1,0 +1,56 @@
+body{
+	font-family: Kaushan Script;
+	font-weight: 300px;
+}
+.col-sm-4{
+	font-size: 20px;
+}
+h1{
+	text-decoration: underline;
+}
+nav{
+	display: flex-end;
+	margin-top: 15px;	
+}
+.jumbotron{
+	background-image: url("Photos/Ete/MontBrouilly N&V.jpg");
+	background-size: cover;/*couvre entièrement la photo dans le cadre*/
+    align-items: top;/*Positionnement du texte dans la cadre*/
+    color: #black;/*Couleur du texte*/
+    height: 500px;/*Hauteur du jumbotron(cadre)*/
+}
+
+.jumbotron h2 {
+  font-size: 50px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+section{
+	background-image: url("Photos/Caissebois.png");
+}
+section .row p{
+	font-size: 30px;
+	color: white;
+}
+section .rowbis p{
+	font-size: 30px;
+	color: white;
+}
+.container h4{
+	color: white;
+	text-align: center;
+	font-size: 3em;
+}
+.container h5{
+	color: white;
+	text-align: center;
+	font-size: 1.1em;
+}
+.row{
+	display:flex;
+}
+.rowbis{
+	display: flex;
+}
+

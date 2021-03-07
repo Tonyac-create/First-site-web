@@ -1,0 +1,30 @@
+body{
+	font-family: Kaushan Script;
+	font-weight: 300px;
+	background-image: url("Photos/fond_decran_automne.jpg");
+	background-size: cover;
+}
+
+h1{
+	color: black;
+	text-align: center;
+}
+
+img{
+	margin-left: 10px;
+	border: 5px black solid;
+}
+
+.ligne{
+	display: flex;
+}
+.ligneinverse{
+	display: flex;
+	flex-direction: row-reverse;
+}
+p{
+	font-size: 30px;
+	font-family: Dancing Script;
+	text-align: center;
+	margin: auto;
+}

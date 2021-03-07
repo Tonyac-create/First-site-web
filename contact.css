@@ -1,0 +1,10 @@
+body{
+	background-image: url("Photos/20200607_210641.jpg");
+	background-size: 100%;
+}
+p{
+	font-size: 25px;
+	font-family: Kaushan Script;
+	text-align: left;
+	color: black;
+}
